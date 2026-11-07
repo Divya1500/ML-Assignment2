@@ -48,8 +48,8 @@ Accuracy: 90.26%
 
 ## GitHub Repository
 
-(Add GitHub Repository Link Here)
+https://github.com/Divya1500/ML-Assignment2
 
 ## Streamlit Application
 
-(Add Streamlit Deployment Link Here)
+https://divya1500-ml-assignment2-app-y7beya.streamlit.app
