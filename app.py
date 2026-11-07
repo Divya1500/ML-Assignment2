@@ -1,4 +1,8 @@
-import joblib
+try:
+    import joblib
+except Exception as e:
+    raise Exception(f"JOBLIB_IMPORT_ERROR: {e}")
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
