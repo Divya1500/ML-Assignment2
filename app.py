@@ -1,7 +1,9 @@
 import streamlit as st
 
-st.title("TEST APP LOADED")
+st.write("STEP 1")
 
-st.write("Streamlit is working correctly.")
+import joblib
+
+st.write("STEP 2")
 
 st.stop()
